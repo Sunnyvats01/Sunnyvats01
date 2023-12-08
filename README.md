@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sunnyvats01
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning python 
+- 👀 Tech Explorer
+- 🌱 I’m a Frontend Developer 
 
 <!---
 Sunnyvats01/Sunnyvats01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
